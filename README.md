@@ -2,12 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=05A9EC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Bryan+Jose;I'm+21+years+old;I'm+from+Dominican+Republic;I+Graduated+Software+Technologist+in+ITLA;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<br>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bryan18201&show_icons=true&count_private=true&hide_border=true&title_color=05A9EC&icon_color=05A9EC&text_color=c9d1d9&bg_color=0d1117" alt="Bryan Jose github stats" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan18201&hide_progress=true&layout=compact&hide_border=true&title_color=05A9EC&text_color=05A9EC&&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bryan18201&show_icons=true&theme=transparent&show_icons=true&count_private=true&hide_border=true&title_color=05A9EC&icon_color=05A9EC&text_color=c9d1d9&bg_color=0d1117" alt="Bryan Jose github stats" /> 
+
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan18201&layout=compact&hide_border=true&title_color=05A9EC&text_color=05A9EC&&bg_color=0d1117" />
 </div>
 </br>
+
+
 
 https://profile-summary-for-github.com/user/bryan18201
 ![image](https://user-images.githubusercontent.com/80865397/232585342-4793586f-119a-4922-9012-a986df6eceff.png)
