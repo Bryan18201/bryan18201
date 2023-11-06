@@ -11,7 +11,8 @@
 </br>
 
 https://profile-summary-for-github.com/user/bryan18201
-![image](https://github.com/Bryan18201/bryan18201/assets/80865397/8c28b057-04c5-4884-92b0-5c6607004b54)
+![image](https://github.com/Bryan18201/bryan18201/assets/80865397/1998aee7-b8b3-4eb1-8c17-73429d7ef69a)
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bryan18201&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15&color=05A9EC" />
